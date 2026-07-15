@@ -1,0 +1,85 @@
+#include "decoder.h"
+#include <stdexcept>
+
+namespace mv {
+
+Decoder::Decoder() {
+    HRESULT hr = CoCreateInstance(
+        CLSID_WICImagingFactory, nullptr, CLSCTX_INPROC_SERVER,
+        IID_PPV_ARGS(&m_factory));
+    if (FAILED(hr))
+        throw std::runtime_error("Failed to create WIC factory");
+}
+
+ComPtr<IWICBitmapDecoder> Decoder::create_decoder(const std::wstring& path) {
+    ComPtr<IWICBitmapDecoder> decoder;
+    HRESULT hr = m_factory->CreateDecoderFromFilename(
+        path.c_str(), nullptr, GENERIC_READ,
+        WICDecodeMetadataCacheOnDemand,
+        &decoder);
+    if (FAILED(hr))
+        throw std::runtime_error("Failed to create decoder for image");
+    return decoder;
+}
+
+ComPtr<IWICBitmapSource> Decoder::convert_to_pbgra(IWICBitmapSource* src) {
+    ComPtr<IWICFormatConverter> converter;
+    HRESULT hr = m_factory->CreateFormatConverter(&converter);
+    if (FAILED(hr))
+        throw std::runtime_error("Failed to create format converter");
+
+    // Convert to 32-bit PBGRA (Direct2D's native format) with full fidelity
+    hr = converter->Initialize(
+        src,
+        GUID_WICPixelFormat32bppPBGRA,
+        WICBitmapDitherTypeNone,
+        nullptr, 0.0,
+        WICBitmapPaletteTypeMedianCut);
+    if (FAILED(hr))
+        throw std::runtime_error("Failed to convert to PBGRA");
+
+    ComPtr<IWICBitmapSource> result;
+    converter.As(&result);
+    return result;
+}
+
+ComPtr<IWICBitmapSource> Decoder::decode(const std::wstring& path) {
+    auto decoder = create_decoder(path);
+
+    // Get the first frame (for multi-frame images like GIF, we take frame 0)
+    ComPtr<IWICBitmapFrameDecode> frame;
+    HRESULT hr = decoder->GetFrame(0, &frame);
+    if (FAILED(hr))
+        throw std::runtime_error("Failed to get image frame");
+
+    // Convert to GPU-friendly format at FULL resolution — no downscaling
+    return convert_to_pbgra(frame.Get());
+}
+
+std::optional<ImageInfo> Decoder::probe(const std::wstring& path) {
+    try {
+        auto decoder = create_decoder(path);
+        ComPtr<IWICBitmapFrameDecode> frame;
+        HRESULT hr = decoder->GetFrame(0, &frame);
+        if (FAILED(hr)) return std::nullopt;
+
+        ImageInfo info;
+        info.path = path;
+        frame->GetSize(&info.width, &info.height);
+
+        // Get DPI for proper scaling
+        double dpi_x = 96.0, dpi_y = 96.0;
+        frame->GetResolution(&dpi_x, &dpi_y);
+        if (dpi_x > 0) info.dpi_x = dpi_x;
+        if (dpi_y > 0) info.dpi_y = dpi_y;
+
+        // Get pixel format
+        frame->GetPixelFormat(&info.pixel_format);
+
+        return info;
+    } catch (...) {
+        return std::nullopt;
+    }
+}
+
+} // namespace mv
