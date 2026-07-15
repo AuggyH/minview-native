@@ -1,0 +1,10 @@
+^D:\PROJECTS\MINVIEW-NATIVE\BUILD\CMAKEFILES\D37310DA7F7961B35DA7352453855E9C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Projects/minview-native -BD:/Projects/minview-native/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Projects/minview-native/build/MinView.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
