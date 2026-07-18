@@ -29750,3 +29750,573 @@ Title: \u8d1f\u9762\u63d0\u793a\u8bcd
 Text: easynegative, badhandv4, ng_deepnegative_v1_75t,\n        lowres, worst quality, low quality, normal quality, (bad anatomy:1), (bad hands:1), (extra fingers:1), (fewer digits:1), (missing fingers:1), (isolated hands:1), text, watermark, signature, username, jpeg artifacts, blurry, monochrome, grayscale, skin spots, acnes, skin blemishes, age spot, yellow skin, tan skin, paintings, sketches, (male:2), (1boy:2), (penis:10), (dick:2), (cock:2), (testicles:2), (balls:2), (child:2), (loli:2), (toddler:2), (infant:1), (baby:1), (kids:1), (young children:1)
 ---
   Link to widget: 379:472
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12381
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421531
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12381
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421531
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12381
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421531
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12381
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421531
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12381
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421531
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12381
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421531
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12381
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421531
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12114
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421272
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12114
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421272
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12114
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421272
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12114
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421272
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12114
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421272
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12114
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421272
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12114
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421272
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12114
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421272
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12114
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421272
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12263
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421422
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12992
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327337
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12992
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327337
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12992
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327337
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12992
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327337
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12992
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327337
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12992
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327337
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=12992
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327337
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=13056
+    {"4": {"inputs": {"ckpt_name": "waiIllustriousSDXL_v170.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["498", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u
+  tEXt[workflow]: JSON len=327394
+    {"id": "1616b494-e462-4cfa-ada6-c63c7e7c8c68", "revision": 0, "last_node_id": 527, "last_link_id": 1437, "nodes": [{"id": 320, "type": "PreviewImage", "pos": [1920.0000798796207, -1380.0000266343236], "size": [650, 880], "flags": {"pinned": true}, "order": 43, "mode": 0, "inputs": [{"label": "images
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
+=== [PNG] ===
+  tEXt[prompt]: JSON len=11303
+    {"4": {"inputs": {"ckpt_name": "duchaitenPonyReal_v20.safetensors"}, "class_type": "CheckpointLoaderSimple", "_meta": {"title": "Checkpoint\u52a0\u8f7d\u5668\uff08\u7b80\u6613\uff09"}}, "6": {"inputs": {"text": ["162", 0], "clip": ["18", 1]}, "class_type": "CLIPTextEncode", "_meta": {"title": "\u6b6
+  tEXt[workflow]: JSON len=421109
+    {"id": "ca61e04c-3774-4fe0-ae75-1ef4d9eec33e", "revision": 0, "last_node_id": 385, "last_link_id": 1247, "nodes": [{"id": 132, "type": "easy promptConcat", "pos": [150, -1490], "size": [210, 78], "flags": {"pinned": true}, "order": 27, "mode": 0, "inputs": [{"label": "prompt1", "name": "prompt1", "s
+
